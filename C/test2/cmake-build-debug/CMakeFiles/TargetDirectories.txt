@@ -1,0 +1,3 @@
+/Users/yujeongchoi/Desktop/재웅/C/test2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yujeongchoi/Desktop/재웅/C/test2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yujeongchoi/Desktop/재웅/C/test2/cmake-build-debug/CMakeFiles/test2.dir
